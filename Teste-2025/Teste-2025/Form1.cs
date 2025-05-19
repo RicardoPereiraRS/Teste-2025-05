@@ -49,9 +49,6 @@ namespace Teste_2025
             int n2 = 1;
             int proximo;
 
-            Console.WriteLine("Sequência de Fibonacci:");
-            Console.Write(n1 + " " + n2 + " ");
-
             while (true)
             {
                 proximo = n1 + n2;
